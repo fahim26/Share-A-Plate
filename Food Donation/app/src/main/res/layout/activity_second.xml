@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:weightSum="2.0">
+
+    <Button
+        android:id="@+id/donate"
+        style="?attr/buttonBarButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/donate"
+        android:text="Donate"
+        android:textAllCaps="true"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:textColor="#FDFDA6"
+        android:textSize="48sp"
+        android:textStyle="bold"
+        android:visibility="visible" />
+
+    <Button
+        android:id="@+id/recieve"
+        style="?attr/buttonBarButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="419dp"
+        android:layout_weight="1"
+        android:background="@drawable/receive"
+        android:text="Receive"
+        android:textColor="#FDFDA6"
+        android:textSize="48sp"
+        android:textStyle="normal|bold" />
+
+    <Button
+        android:id="@+id/order"
+        style="?attr/buttonBarButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="235dp"
+        android:layout_weight="1"
+        android:background="@drawable/orderfood"
+        android:text="Order Food"
+        android:textAllCaps="true"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:textColor="#0E4A1D"
+        android:textColorHighlight="#1C1919"
+        android:textColorHint="#221C1C"
+        android:textColorLink="#221D1D"
+        android:textSize="48sp"
+        android:textStyle="bold"
+        android:visibility="visible" />
+
+</LinearLayout>
