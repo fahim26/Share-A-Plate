@@ -14,9 +14,6 @@ To donate food, one has to give the information about the food, donor name etc. 
 the database in order to find the donated food. By using this location and other provided informations, anyone can collect these donated food on their own.
 this app also has an extra feature, a food ordering system. One can order food from the given items,update and delete the orders. 
 
-[![Video](https://img.youtube.com/vi/D9vw9lWREAs/0.jpg)](https://www.youtube.com/watch?v=D9vw9lWREAs)
-
-CLICK :point_up: Here is the demo of how the app works.
 
 The screenshots are given below:
 
