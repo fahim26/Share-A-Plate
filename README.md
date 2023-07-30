@@ -15,56 +15,6 @@ the database in order to find the donated food. By using this location and other
 this app also has an extra feature, a food ordering system. One can order food from the given items,update and delete the orders. 
 
 
-The screenshots are given below:
-
-Starting Page :
-
-<img src="https://github.com/Tamzid06/Food-Donation-App/blob/main/ScreenShots/1.JPEG" width="150" alt="1">
-
-Login or Register Page -
-
-<img src="https://github.com/Tamzid06/Food-Donation-App/blob/main/ScreenShots/2.JPEG" width="150" alt="2">
-
-Register Page - 
-
-<img src="https://github.com/Tamzid06/Food-Donation-App/blob/main/ScreenShots/3.JPEG" width="150" alt="3">
-
-Food Donate,Recieve or Food Order Page - 
-
-<img src="https://github.com/Tamzid06/Food-Donation-App/blob/main/ScreenShots/4.JPEG" width="150" alt="4">
-
-Food Donation Page - 
-
-<img src="https://github.com/Tamzid06/Food-Donation-App/blob/main/ScreenShots/5.JPEG" width="150" alt="5">
-
-Food Recieve Page - 
-
-<img src="https://github.com/Tamzid06/Food-Donation-App/blob/main/ScreenShots/6.JPEG" width="150" alt="6">
-
-All Foods available for recieving - 
-
-<img src="https://github.com/Tamzid06/Food-Donation-App/blob/main/ScreenShots/7.JPEG" width="150" alt="7">
-
-Location of the donated food - 
-
-<img src="https://github.com/Tamzid06/Food-Donation-App/blob/main/ScreenShots/8.JPEG" width="150" alt="8">
-
-Food List available for order - 
-
-<img src="https://github.com/Tamzid06/Food-Donation-App/blob/main/ScreenShots/9.jpeg" width="150" alt="9">
-
-Food order process - 
-
-<img src="https://github.com/Tamzid06/Food-Donation-App/blob/main/ScreenShots/10.jpeg" width="150" alt="10">
-
-My Orders - 
-
-<img src="https://github.com/Tamzid06/Food-Donation-App/blob/main/ScreenShots/11.jpeg" width="150" alt="11">
-
-Update Order - 
-
-<img src="https://github.com/Tamzid06/Food-Donation-App/blob/main/ScreenShots/12.jpeg" width="150" alt="12">
-
 **To run this project**
 1) Download the Zip file or clone the project
 2) Unzip the project folder
@@ -72,7 +22,5 @@ Update Order -
 4) Build the project
 5) Run to any android device or virtual device
 
-
-Special thanks to mr.nizam for his help to complete this project.
 
 
